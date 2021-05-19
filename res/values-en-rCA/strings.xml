@@ -1330,7 +1330,7 @@
     <string name="firmware_version" msgid="1606901586501447275">"Android version"</string>
     <string name="security_patch" msgid="4071756145347865382">"Android security update"</string>
     <string name="model_info" msgid="8997566254717810904">"Model"</string>
-    <string name="hardware_info" msgid="7035211991066637019">"Model and hardware"</string>
+    <string name="hardware_info" msgid="7035211991066637019">"Model and Hardware"</string>
     <string name="hardware_revision" msgid="3454709180861965025">"Hardware version"</string>
     <string name="fcc_equipment_id" msgid="6596668314025646129">"Equipment ID"</string>
     <string name="baseband_version" msgid="2600182227599835857">"Baseband version"</string>
